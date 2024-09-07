@@ -1,0 +1,24 @@
+{
+	"name": "@domenech/prompter",
+	"version": "0.0.0",
+	"description": "simple command line prompter",
+	"main": "src/Prompter.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "domenech-io",
+	"license": "MIT",
+	"packageManager": "pnpm@9.7.1+sha256.46f1bbc8f8020aa9869568c387198f1a813f21fb44c82f400e7d1dbde6c70b40",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/domenech-io/prompter.git"
+	},
+	"bugs": {
+		"url": "https://github.com/domenech-io/prompter/issues"
+	},
+	"homepage": "https://github.com/domenech-io/prompter#readme",
+	"devDependencies": {
+		"@types/node": "^22.5.4"
+	}
+}
